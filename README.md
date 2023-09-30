@@ -51,4 +51,4 @@ Heres a design thinking framework for media streaming using Cloud.
     11. Record and Share:
         IBM Cloud Video Streaming may allow you to record your live streams for later use or share them with your audience.
 
-By follwing this framework we will be able to video stream or movies in the IBM cloud, that gives immense user experience to the user, that allows the user to upload the videos in the cloud, and allows the user to record and share the media.
+By following this framework we will be able to video stream or movies in the IBM cloud, that gives immense user experience to the user, that allows the user to upload the videos in the cloud, and allows the user to record and share the media.
